@@ -63,7 +63,7 @@
 </template>
 
 <script>
-const API_URL = 'https://full-stack-message-boardz.herokuapp.com/messages';
+const API_URL = 'https://blooming-temple-22847.herokuapp.com/messages';
 export default {
   name: 'home',
   data: () => ({
